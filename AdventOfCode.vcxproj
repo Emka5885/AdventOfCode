@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AdventOfCode\2022\Days\01-12-2022.cpp" />
+    <ClCompile Include="AdventOfCode\2023\Days\1-12-2023\part 1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
