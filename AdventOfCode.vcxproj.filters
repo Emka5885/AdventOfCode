@@ -22,7 +22,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="AdventOfCode\2023\File_txt\08-12-2023.txt" />
-  </ItemGroup>
 </Project>
