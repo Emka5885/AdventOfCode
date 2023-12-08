@@ -22,6 +22,9 @@
     <ClCompile Include="AdventOfCode\2023\Days\7-12-2023\part_1.cpp" />
     <ClCompile Include="AdventOfCode\2023\Days\7-12-2023\part_2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="AdventOfCode\2023\File_txt\07-12-2023.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
