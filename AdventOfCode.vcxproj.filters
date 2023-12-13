@@ -18,5 +18,8 @@
     <ClCompile Include="AdventOfCode\2023\Days\13-12-2023\part_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AdventOfCode\2023\Days\13-12-2023\part_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
